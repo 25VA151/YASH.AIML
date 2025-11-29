@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(247, 250, 249);
+    background-image:url('https://static.vecteezy.com/system/resources/thumbnails/052/130/800/small/high-resolution-image-featuring-a-colorful-butterfly-with-intricate-patterns-and-vibrant-colors-photo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+html,*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    font-weight: 300;
+    font-style: italic;
+    font-display: block;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 10px 0px 1px #f04;
+
+}
+#para{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    font-style: italic;
+    font-display: block;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 10px 0px 1px rgb(27, 15, 205);
+
+}
+span{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    font-display: block;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 10px 0px 1px rgb(84, 237, 18);
+}
+
